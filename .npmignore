@@ -1,0 +1,7 @@
+# Ignore the problematic file
+src/SimpleDialogueBox.ts
+
+# Other files to ignore
+.git
+node_modules
+npm-debug.log 
